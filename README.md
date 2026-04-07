@@ -1,5 +1,5 @@
 # Rota_Segura
-Rota Segura - Monitoramento e Geolocalização Nativa 📍
+Rota Segura - Monitoramento e Geolocalização Nativa 
 O Rota Segura é um módulo mobile desenvolvido para oferecer rastreamento em tempo real e visualização de pontos de interesse (como ecopontos e rotas de coleta) integrando mapas e serviços de localização.
 
 📱 Funcionalidades Principais
